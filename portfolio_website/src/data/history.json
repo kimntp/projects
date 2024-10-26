@@ -1,0 +1,18 @@
+[
+    {
+        "role": "Part-time STEM Instructor",
+        "organization": "Electric Girls, A NonProfit Organization",
+        "startDate": "09/23/23",
+        "endDate": "11/13/23",
+        "experiences": ["Led a class of 15 third grade students in an 8-week program, teaching fundamental concepts of electrical circuits, culminating in a project-based presentation of their final products and discoveries."],
+        "imageSrc": "history/elctric_girls.png"
+    },
+    {
+        "role": "CIW Intern",
+        "organization": "St Bernard Parish IT Department",
+        "startDate": "Summers of 2022",
+        "endDate": "2023",
+        "experiences": ["Collaborated with a team of twenty total interns to efficiently replace and implement new printers, desktops, monitors, and teachers’ laptops in all eleven schools within the St. Bernard School District"],
+        "imageSrc": "history/sbpsb.png"
+    }
+]

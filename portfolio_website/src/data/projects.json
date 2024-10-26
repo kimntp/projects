@@ -1,0 +1,12 @@
+
+[
+    {
+        "title": "This Portfolio Website!",
+        "imageSrc": "projects/project.png",
+        "description": "Web Development, Styling",
+        "skills": ["React", "JavaScript", "HTML", "CSS"],
+        "demo": "https://kimnguyen.netlify.app/",
+        "source": "https://github.com/kimntp"
+      }
+     
+]
